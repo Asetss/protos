@@ -1,4 +1,4 @@
-module github.com/Asetss/protos
+module protos
 
 go 1.21.4
 
